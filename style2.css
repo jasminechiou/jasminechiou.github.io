@@ -1,0 +1,33 @@
+body {
+    background-color: #D3D3D3; 
+  }
+
+  #main {
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 25px;
+  }
+
+  .A {
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 25px;
+  }
+  
+  #list {
+    padding-right: 15px;
+    padding-left: 25px;
+    list-style-type: none; /* Removes bullet points */
+  }
+  
+  #list li {
+    padding: 5px 0; 
+  }
+  
+  #list img {
+    display: block; 
+    margin-bottom: 10px; 
+  }
+  
+  
+  
