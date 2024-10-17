@@ -1,0 +1,14 @@
+hyperlink to website: https://jasminechiou.github.io/index.html
+
+styling & customizations: 
+
+first page: 
+- aligned the h1 heading to the center
+- gave picture on the first page padding on the right and left 
+- changed the font of the first page to helvetica 
+
+second page: 
+- changed the padding of the paragraphs with id main and A
+- changed the background color to light gray 
+- changed the padding of the list and images under it 
+- italicized the words in the list. 
